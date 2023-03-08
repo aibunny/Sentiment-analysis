@@ -41,7 +41,7 @@ Sentiment analysis is a powerful tool for understanding how customers perceive a
 ## Visualizations
 
 Seaborn and WordCloud visualizations 
-![PIE CHART](image_file_path)
-![WORDCLOUD](image_file_path)
+![PIE CHART](https://s3.console.aws.amazon.com/s3/object/aibunny?region=ap-southeast-1&prefix=media/uploads/2023/03/07/piechart.jpg)
+![WORDCLOUD](https://s3.console.aws.amazon.com/s3/object/aibunny?region=ap-southeast-1&prefix=media/uploads/2023/03/07/word+cloud.png)
 
 

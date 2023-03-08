@@ -25,7 +25,7 @@ The project involved the following steps:
 2. **Clean the collected tweets using NeatText**: I used NeatText to remove stop words, URLs, hashtags, and other irrelevant text from the collected tweets.
 3. **Train the LSTM model using Sentiment 140 dataset**: I trained the LSTM model using the Sentiment 140 dataset, which contains 1.6 million tweets labelled as positive, negative, or neutral.
 4. **Test the model using a validation set**: I tested the performance of the LSTM model using a validation set of Safaricom tweets that were manually labelled as positive or neutral.
-    ![MODELS ACCURACY]([image_file_path](https://aibunny.s3.ap-southeast-1.amazonaws.com/media/uploads/2023/03/06/model-evaluation.png))
+    ![MODELS ACCURACY](https://aibunny.s3.ap-southeast-1.amazonaws.com/media/uploads/2023/03/06/model-evaluation.png)
 
 6. **Make predictions on the collected Safaricom tweets**: I used the trained LSTM model to make predictions on the Safaricom tweets that were collected in step 1.
 7. **Visualize the results using Seaborn and WordCloud**: I used Seaborn to create visualizations of the sentiment analysis results, such as bar charts and pie charts, and WordCloud to generate word clouds that show the most frequently used words in the Safaricom tweets.
